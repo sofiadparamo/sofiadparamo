@@ -27,7 +27,7 @@ My personal mission is to change the world creating a positive impact doing the 
 ## My Skills
 
 <!-- todo 
-* [ ] shileds section sorted by color
+* [ ] shields section sorted by color
 -->
 _Coming soon..._
 
@@ -35,7 +35,7 @@ _Coming soon..._
 
 [![SweetSofiMC's GitHub stats](https://github-readme-stats.vercel.app/api?username=SweetSofiMC&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-This list is not representative of my skill, but ranks the langauges I use the most in GitHub.
+This list is not representative of my skill, but ranks the languages I use the most in GitHub.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sweetsofimc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
