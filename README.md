@@ -13,7 +13,7 @@ My personal mission is to change the world creating a positive impact doing the 
 -->
 
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=sweetsofimc.sweetsofimc" alt="visitor badge"/>
+  <img src="https://wheat-important-tile.glitch.me/badge?page_id=sweetsofimc.sweetsofimc" alt="visitor badge"/>
 </p>
 
 ## My stuff
