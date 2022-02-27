@@ -12,7 +12,7 @@ My personal mission is to change the world creating a positive impact doing the 
 
 ## 💼 See my work
 
-[🌸](sweetsofimc.dev) ⬅ My portfolio
+[🌸](https://sweetsofimc.dev/) ⬅ My portfolio
 <!-- TODO
 - [] Add link to Devpost once I come out
 -->
