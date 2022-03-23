@@ -7,7 +7,7 @@
 My personal mission is to change the world creating a positive impact doing the things I love. 💖
 
 <p align="center">
-  <img src="https://sofi-visitor-badge.glitch.me/badge?page_id=sweetsofimc.sweetsofimc" alt="visitor badge"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=sweetsofimc.sweetsofimc" alt="visitor badge"/>
 </p>
 
 ## 💼 See my work
