@@ -13,9 +13,8 @@ My personal mission is to change the world creating a positive impact doing the 
 ## 💼 See my work
 
 [🌸](https://sweetsofimc.dev/) ⬅ My portfolio
-<!-- TODO
-- [] Add link to Devpost once I come out
--->
+[📁](https://devpost.com/SweetSofiMC) ⬅ Devpost
+
 ## 🚀 My stuff
   
 [<img src="https://user-images.githubusercontent.com/7455707/136626398-7fa3c90b-3f02-4739-8bb9-54312c2030d9.png" width="20" height="20" />](https://fellowship.mlh.io/) I've been an MLH Fellow
@@ -77,8 +76,8 @@ This list is not representative of my skill, but ranks the languages I use the m
 <!-- todo
 * [ ] Fancy icons for each social media
 * [ ] Add linkedin once updated to gender identity
-* [ ] Add pronouns once I came out
 -->
+My pronouns are she/her.
 
 * Twitter: [@SweetSofiMC](https://twitter.com/SweetSofiMC)
 * Discord: SweetSofiMC#9999
