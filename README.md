@@ -24,7 +24,7 @@ My personal mission is to change the world creating a positive impact doing the 
 
 [<img src="https://user-images.githubusercontent.com/7455707/136626898-4b43a110-89f7-40be-bb9e-d98e572ac46b.png" width="20" height="20" />](http://lideresdelmanana.itesm.mx/) I'm a Líder del Mañana
 
-💻 I've been an intern @ Oracle and Lyft
+💻 I've been an intern @ Oracle, Lyft and Microsoft
 
 ## 👩‍💻 Programming languages
 <p align="center">
@@ -34,25 +34,26 @@ My personal mission is to change the world creating a positive impact doing the 
 <img src="https://img.shields.io/badge/4%20years-69b34c?style=for-the-badge" alt="4 years" />
 <br/>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript" />
-<img src="https://img.shields.io/badge/2%20years-acb334?style=for-the-badge" alt="3 years" />
+<img src="https://img.shields.io/badge/4%20years-69b34c?style=for-the-badge" alt="4 years" />
 <br/>
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" />
-<img src="https://img.shields.io/badge/2%20years-acb334?style=for-the-badge" alt="2 years" />
+<img src="https://img.shields.io/badge/3%20years-69b34c?style=for-the-badge" alt="4 years" />
+<br/>
+<img src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=for-the-badge" alt="Typescript" />
+<img src="https://img.shields.io/badge/2%20years-acb334?style=for-the-badge" alt="3 years" />
 <br/>
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-<img src="https://img.shields.io/badge/1%20year-fab733?style=for-the-badge" alt="1 year" />
+<img src="https://img.shields.io/badge/2%20years-fab733?style=for-the-badge" alt="2 years" />
 <br/>
 <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=whit" alt="Swift" />
-<img src="https://img.shields.io/badge/6%20months-ff8e15?style=for-the-badge" alt="6 months" />
+<img src="https://img.shields.io/badge/1%20year-ff8e15?style=for-the-badge" alt="1 year" />
 <br/>
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
 <img src="https://img.shields.io/badge/beginner%20(proficient)-ff4e11?style=for-the-badge" alt="Beginner (proficient)" />
 <br/>
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
 <img src="https://img.shields.io/badge/beginner%20(proficient)-ff4e11?style=for-the-badge" alt="Beginner (proficient)" />
-<br/>
-<img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-<img src="https://img.shields.io/badge/Learning-ff0d0d?style=for-the-badge" alt="Learning" />
+
 
 </p>
 
@@ -78,10 +79,10 @@ This list is not representative of my skill, but ranks the languages I use the m
 
 My pronouns are she/her.
 
-<img src="https://user-images.githubusercontent.com/7455707/217067036-49c515a7-13d4-4b5b-aed0-18d86c93970b.png" height="20" /> Twitter: [@SweetSofiMC](https://twitter.com/SweetSofiMC)
+<img src="https://user-images.githubusercontent.com/7455707/217067036-49c515a7-13d4-4b5b-aed0-18d86c93970b.png" height="20" /> Twitter: [@SofiaDParamo](https://twitter.com/sofiadparamo)
 <br/>
-<img src="https://user-images.githubusercontent.com/7455707/217076713-3b8aeebd-8878-4487-8629-fcd0abc70374.png" height="20" /> Discord: SweetSofiMC#2485
+<img src="https://user-images.githubusercontent.com/7455707/217076713-3b8aeebd-8878-4487-8629-fcd0abc70374.png" height="20" /> Discord: @sofiadparamo
 <br/>
-<img src="https://user-images.githubusercontent.com/7455707/217076575-9995fdbb-daff-415d-b3ad-ccaa5d96a1f5.png" height="20" /> LinkedIn: [in/sofiamagallon](https://www.linkedin.com/in/sofiamagallon/)
+<img src="https://user-images.githubusercontent.com/7455707/217076575-9995fdbb-daff-415d-b3ad-ccaa5d96a1f5.png" height="20" /> LinkedIn: [in/sofiadparamo](https://www.linkedin.com/in/sofiadparamo/)
 <br/>
-<img src="https://user-images.githubusercontent.com/7455707/217076588-c022ba23-4685-40ae-b6e5-66713daa7beb.png" height="20" /> Email: [contact@sweetsofimc.dev](mailto:contact@sweetsofimc.dev)
+<img src="https://user-images.githubusercontent.com/7455707/217076588-c022ba23-4685-40ae-b6e5-66713daa7beb.png" height="20" /> Email: [hi@iamso.fi](mailto:hi@iamso.fi)
