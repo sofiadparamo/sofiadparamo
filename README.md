@@ -69,11 +69,11 @@ My personal mission is to change the world creating a positive impact doing the 
 
 ## 📈 Some stats
 
-[![SweetSofiMC's GitHub stats](https://github-readme-stats.vercel.app/api?username=SweetSofiMC&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats) 
+[![SweetSofiMC's GitHub stats](https://github-readme-stats.vercel.app/api?username=sofiadparamo&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats) 
 
 This list is not representative of my skill, but ranks the languages I use the most in GitHub.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sweetsofimc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofiadparamo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 👧 Reach me
 
