@@ -1,10 +1,10 @@
 <h1 align="center">
-  Hi there 👋 🌸
+  Hi there 🌸
 </h1>
 
-**I'm a Computer Science Student 💻, mexican developer :mexico: and daydreamer ✨.**
+**I'm a mexican :mexico: Software Engineer  💻,  and daydreamer ✨.**
 
-My personal mission is to change the world creating a positive impact doing the things I love. 💖
+My personal mission is to change the world by creating a positive impact while doing the things I love. 💖
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=sweetsofimc.sweetsofimc" alt="visitor badge"/>
@@ -12,19 +12,21 @@ My personal mission is to change the world creating a positive impact doing the 
 
 ## 💼 See my work
 
-[🌸](https://sweetsofimc.dev/) ⬅ My portfolio
+- [🌸 My website](https://sweetsofimc.dev/)
 
-[📁](https://devpost.com/SweetSofiMC) ⬅ Devpost
+- [📁 Devpost](https://devpost.com/SweetSofiMC)
 
-## 🚀 My stuff
+## 🚀 Achievements
+
+👩‍🎓 Graduated *Summa Cum Laude* in B. S. in C. S. from the Tecnológico de Monterrey
+
+💻 I've been an intern @ Oracle, Lyft and Microsoft
   
 [<img src="https://user-images.githubusercontent.com/7455707/136626398-7fa3c90b-3f02-4739-8bb9-54312c2030d9.png" width="20" height="20" />](https://fellowship.mlh.io/) I've been an MLH Fellow
 
 [<img src="https://user-images.githubusercontent.com/7455707/136626260-a3b5d820-6f8a-4f04-a5d3-fab0aae6b776.png" width="20" height="20" />](https://education.github.com/) I'm a GitHub Campus Expert
 
 [<img src="https://user-images.githubusercontent.com/7455707/136626898-4b43a110-89f7-40be-bb9e-d98e572ac46b.png" width="20" height="20" />](http://lideresdelmanana.itesm.mx/) I'm a Líder del Mañana
-
-💻 I've been an intern @ Oracle, Lyft and Microsoft
 
 ## 👩‍💻 Programming languages
 <p align="center">
@@ -37,19 +39,19 @@ My personal mission is to change the world creating a positive impact doing the 
 <img src="https://img.shields.io/badge/4%20years-69b34c?style=for-the-badge" alt="4 years" />
 <br/>
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" />
-<img src="https://img.shields.io/badge/3%20years-69b34c?style=for-the-badge" alt="4 years" />
+<img src="https://img.shields.io/badge/3%20years-acb334?style=for-the-badge" alt="4 years" />
 <br/>
 <img src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=for-the-badge" alt="Typescript" />
-<img src="https://img.shields.io/badge/2%20years-acb334?style=for-the-badge" alt="3 years" />
+<img src="https://img.shields.io/badge/3%20years-acb334?style=for-the-badge" alt="3 years" />
+<br/>
+<img src="https://img.shields.io/badge/C%23-9b4993?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+<img src="https://img.shields.io/badge/2%20years-fab733?style=for-the-badge" alt="2 years" />
 <br/>
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
 <img src="https://img.shields.io/badge/2%20years-fab733?style=for-the-badge" alt="2 years" />
 <br/>
 <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=whit" alt="Swift" />
 <img src="https://img.shields.io/badge/1%20year-ff8e15?style=for-the-badge" alt="1 year" />
-<br/>
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-<img src="https://img.shields.io/badge/beginner%20(proficient)-ff4e11?style=for-the-badge" alt="Beginner (proficient)" />
 <br/>
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
 <img src="https://img.shields.io/badge/beginner%20(proficient)-ff4e11?style=for-the-badge" alt="Beginner (proficient)" />
@@ -58,7 +60,7 @@ My personal mission is to change the world creating a positive impact doing the 
 </p>
 
 ## 💻 Technologies I'm familiar with
-<details><i>I'm not an expert in all of these, I have different levels of proficiency in each one.</i></details>
+<details><i>I'm not an expert in all of these, I have different levels of proficiency in each one. Also, this list is not exhaustive and some skills from a given platform may be transferable to a similar platform.</i></details>
 
 <!-- TODO
 - [] Center images changing from markdown to html
@@ -71,15 +73,17 @@ My personal mission is to change the world creating a positive impact doing the 
 
 [![SweetSofiMC's GitHub stats](https://github-readme-stats.vercel.app/api?username=sofiadparamo&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats) 
 
-This list is not representative of my skill, but ranks the languages I use the most in GitHub.
+This list is not representative of my skill, but ranks the languages I use the most in my public projects on GitHub.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofiadparamo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## 👧 Reach me
+## 👩‍💻 Reach me
 
 My pronouns are she/her.
 
 <img src="https://user-images.githubusercontent.com/7455707/217067036-49c515a7-13d4-4b5b-aed0-18d86c93970b.png" height="20" /> Twitter: [@SofiaDParamo](https://twitter.com/sofiadparamo)
+<br/>
+<img src="https://github.com/user-attachments/assets/58ef60de-b3ba-480b-b2c1-f5492275675d" height="20" /> Instagram/Threads: [@SofiaDParamo](https://instagram.com/sofiadparamo)
 <br/>
 <img src="https://user-images.githubusercontent.com/7455707/217076713-3b8aeebd-8878-4487-8629-fcd0abc70374.png" height="20" /> Discord: @sofiadparamo
 <br/>
